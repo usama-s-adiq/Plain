@@ -1,2 +1,2 @@
 # Plain
-Cloud Computing Assignement
+Cloud Computing Assignment
